@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 50px 50px 50px 50px;
+    padding: 0px;
+    background-color: darkgray;
+}
+h2{
+    background-color: darkgoldenrod;
+    text-decoration: underline;
+    
+}
+p{
+    font-size: 20px;
+    
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  .photo{
+      height: 220px;
+      width: 220px;
+      background-color: blue;
+      margin-left: 600px;
+      top: -280px;
+      position: relative;
+      background-image: url("raj.jpeg");
+      background-size: 100% 100%;
+  }
+  .head{
+      height: 300px;
+  }
+  h1{
+      text-decoration: underline ;
+  }
+  .list{
+    height: 20px;
+    width: 60px;
+    background-color:;
+    display: flex;
+    justify-content: center;
+    margin-top: -120px;
+    
+    
+    
+    
+}
+li {
+    float: left;
+    margin: 0px 30px ;
+    list-style-type: none;
+    font-size: 26px;
+  
+  }
+ 
